@@ -1,4 +1,5 @@
 *.class
+<<<<<<< HEAD
 *.class
 *.class
 *.class
@@ -7,3 +8,5 @@
 *.class
 *.class
 
+=======
+>>>>>>> 7df9b18fe62d35b4ce617fbfa7c72997b57221f7
